@@ -1,0 +1,8 @@
+#Node modules
+node_modules
+
+#Git folder
+.git
+
+#Code Insiders Editor config
+.vscode
